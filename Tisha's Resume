@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume - Tisha Nandeshwar</title>
+    <style>
+        body {
+            font-family: "Times New Roman", serif;
+            margin: 40px;
+            line-height: 1.6;
+            background-color: #ffffff;
+            color: #000000;
+        }
+        h1 {
+            text-align: center;
+            font-size: 28px;
+            margin-bottom: 5px;
+        }
+        .contact {
+            text-align: center;
+            font-size: 14px;
+        }
+        hr {
+            border: 1px solid #000;
+        }
+        h2 {
+            background-color: #d6e4f0;
+            padding: 5px 10px;
+            font-size: 16px;
+            border-left: 5px solid #2874a6;
+        }
+        ul {
+            margin-top: 5px;
+        }
+
+        li {
+            margin-bottom: 5px;
+            font-size: 14px;
+        }
+        p {
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tisha Nandeshwar</h1>
+    <p class="contact">
+        +91 8381096575 | tishanandeshwar049@gmail.com | LinkedIn <br>
+        Gondia, Maharashtra, India
+    </p>
+    <hr>
+    <h2>Objective</h2>
+    <p>
+        IT student interested in web development and problem solving using Java and Python.
+    </p>
+    <hr>
+    <h2>Education</h2>
+    <p><strong>J D College of Engineering & Management</strong>, Nagpur, Maharashtra</p>
+    <p>B.Tech in IT &nbsp;|&nbsp; 2024 - 2028</p>
+    <p>CGPA: 9.28 (till 3rd Semester)</p>
+    <hr>
+    <h2>Technical Skills</h2>
+    <ul>
+        <li><strong>Programming Languages:</strong> Python, C++, C, Java</li>
+        <li><strong>Developer Tools:</strong> GitHub, VS Code, PyCharm</li>
+    </ul>
+    <hr>
+    <h2>Projects</h2>
+    <ul>
+        <li>Local Government Tender Aggregator</li>
+    </ul>
+    <hr>
+    <h2>Certifications</h2>
+    <ul>
+        <li>Python Coder</li>
+    </ul>
+    <hr>
+    <h2>Achievements & Leadership</h2>
+    <ul>
+        <li>Participated in hackathons: KDK College and Raisoni College</li>
+        <li>5-Day AI Agents Intensive Coding Course with Google</li>
+    </ul>
+    <hr>
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Learning Japanese Language</li>
+        <li>Consistent</li>
+        <li>Writing</li>
+    </ul>
+</body>
+</html>
